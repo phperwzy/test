@@ -1,0 +1,19 @@
+{
+    "name": "wzy/test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "王振亚",
+            "email": "wangzhenya@shzhanmeng.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wzy\\Test\\": "src/Wzy/Test"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    }
+}
